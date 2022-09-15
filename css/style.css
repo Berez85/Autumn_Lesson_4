@@ -1,0 +1,300 @@
+
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@600&family=Roboto:wght@500&display=swap");
+
+
+@font-face {
+	font-family: "lato_bold";
+	src: url("../fonts/lato_bold.woff2") format("woff2"), url("../fonts/lato_bold.woff") format("woff");
+	font-display: swap;
+	font-weight: 700;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "lato_regular";
+	src: url("../fonts/lato_regular.woff2") format("woff2"), url("../fonts/lato_regular.woff") format("woff");
+	font-display: swap;
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "lato_black";
+	src: url("../fonts/lato_black.woff2") format("woff2"), url("../fonts/lato_black.woff") format("woff");
+	font-display: swap;
+	font-weight: 900;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Larsseit-Bold";
+	src: url("../fonts/Larsseit-Bold.woff2") format("woff2"), url("../fonts/Larsseit-Bold.woff") format("woff");
+	font-display: swap;
+	font-weight: 700;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Larsseit-Medium";
+	src: url("../fonts/Larsseit-Medium.woff2") format("woff2"), url("../fonts/Larsseit-Medium.woff") format("woff");
+	font-display: swap;
+	font-weight: 500;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Larsseit-Regular";
+	src: url("../fonts/Larsseit-Regular\ .woff2") format("woff2"), url("../fonts/Larsseit-Regular\ .woff") format("woff");
+	font-display: swap;
+	font-weight: 400;
+	font-style: normal;
+}
+
+
+* {
+	color: rgb(87, 160, 69);
+	font-family: "lato_regular";
+	font-weight: 400;
+}
+
+#a{
+	color: orange;
+	font-family: "lato";
+	font-weight: 400;
+}
+
+.title {
+	color: darkblue;
+	font-family: "lato_black";
+	font-weight: 900;
+}
+
+.text-one {
+	color: darkcyan;
+	font-family: "lato_regular";
+	font-weight: 400;
+}
+
+.text-two {
+	color: darkgray;
+}
+
+.text-three {	
+	color: darkgreen;
+}
+
+.subtitle {
+	color: darkkhaki;
+	font-family: "lato_bold";
+	font-weight: 700;
+}
+
+.text-four {
+	color: cadetblue;
+}
+
+.subtitle-two {
+	color: darkmagenta;
+}
+
+.text-five {
+	color: darkred;
+}
+
+.subtitle-three {
+	color: darkolivegreen;
+}
+
+.text-six {
+	color: darksalmon;
+}
+
+.text-seven {
+	color: aliceblue;
+}
+
+.subtitle-four {
+	color: violet;
+}
+
+.text-eight {
+	color: navy;
+}
+
+.text-nine {
+	color: gold;
+}
+
+.subtitle-five {
+	color: navajowhite;
+}
+
+.text-ten {
+	color: maroon;
+}
+
+.text-eleven {
+	color: yellowgreen;
+}
+
+.text-description ~ p {
+	color: rgb(206, 253, 129);
+}
+
+.text-thirteen {
+}
+
+.text-fourteen {
+}
+
+.text p{
+	color: peru;
+}
+
+.text-fifteen {
+	color: sandybrown;
+}
+
+.text-sixteen {
+	color: aquamarine;
+}
+
+.text-seventeen {
+	color: green;
+}
+
+.blocks.texts span{
+	color: red;
+}
+
+.text-eighteen {
+	color: sienna;
+}
+
+.text-nineteen {
+	color: darkslateblue;
+}
+
+.block-choice > p{
+	color: khaki;
+}
+
+.text-twenty {}
+
+.text.thirty {
+	color: mediumslateblue;
+}
+
+.text.forty {
+	color: khaki;
+}
+
+div.block {
+	color: chartreuse;
+}
+
+.list {
+	color: darkviolet;
+}
+
+.xsmall {
+	color: firebrick;
+}
+
+.small {
+	color: forestgreen;
+}
+
+.medium {
+	color: aqua;
+}
+
+.large {
+	color: chocolate;
+}
+
+.xlarge {
+	color: burlywood;
+}
+
+.xxlarge {
+	color: aquamarine;
+}
+
+.list-assault {
+	color: darkslategray;
+}
+
+.list-one {
+	color: saddlebrown;
+}
+
+.list-two {
+	color: springgreen;
+}
+
+.list-three {
+	color: silver;
+}
+
+.text-forty-one {
+	color: wheat;
+}
+
+.text-forty-two {
+	color: blue;
+}
+
+.subtitle-small {
+	color: darkcyan;
+}
+
+.list-features {
+	color: firebrick;
+}
+
+.list-four {
+	color: sandybrown;
+}
+
+.list-five {
+	color: aquamarine;
+}
+
+.list-six {
+	color: blue;
+}
+
+.list-seven {
+	color: magenta;
+}
+
+.list-eight {
+	color: lawngreen;
+}
+
+.text-forty-three {
+	color: darkred;
+}
+
+.roboto {
+	color: red;
+	font-family: "Roboto";
+	font-weight: 500;
+}
+
+.larsseit-bold {
+	color: darkred;
+	font-family: "Larsseit-Bold";
+}
+
+.larsseit-medium {
+	color: deeppink;
+	font-family: "Larsseit-Medium";
+}
+
+.larsseit-regular {
+	color: rgb(199, 202, 0);
+	font-family: "Larsseit-Regular";
+}
